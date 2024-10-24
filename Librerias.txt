@@ -1,0 +1,9 @@
+Tkinter: Ideal para aplicaciones GUI simples. Fácil de usar y ampliamente documentada.
+
+PyQt/PySide: Ofrecen más opciones y controles para interfaces más complejas. Tienen un diseño más moderno.
+
+Kivy: Perfecta para aplicaciones multiplataforma, incluyendo móviles. Buena para interfaces táctiles.
+
+wxPython: Proporciona un aspecto nativo en diferentes sistemas operativos. Flexible y potente.
+
+Flask/Django: Si prefieres una calculadora web, estas librerías son excelentes para crear aplicaciones web.
